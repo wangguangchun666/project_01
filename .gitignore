@@ -1,0 +1,5 @@
+#忽略 xxx.html
+xxx.html
+
+#忽略 test 文件夹中的文件
+test/
